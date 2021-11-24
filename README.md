@@ -1,5 +1,5 @@
-# Group1Project1
-Group 1 Project 1
+# impact-of-covid-on-crime
+
 Title: Impact of Covid on Crime in Cook County
 
 Team Members:
