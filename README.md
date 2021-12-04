@@ -1,9 +1,8 @@
 # impact-of-covid-on-crime
 
-Title: Impact of Covid on Crime in Chicago
+Title: Impact of Covid on Domestic Crime in Chicago
 
 Team Members:
-
 Victor
 Hanna
 Mary
