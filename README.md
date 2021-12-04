@@ -35,6 +35,6 @@ Hanna - arc gis for mapping / visualization
 Mary - Writing / presentation / analysis
 Jason - Mining for additional data 
 Victor - Mining for additional data
-MAryClare - data cleanup and statistics
+MaryClare - data cleanup and statistics
 
 
