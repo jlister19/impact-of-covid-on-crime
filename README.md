@@ -27,12 +27,14 @@ Question to Answer:
 Datasets To Use:
 
 https://data.cityofchicago.org/ (Crimes- 2001 to present)
-https://icjia.illinois.gov/researchhub/datasets/illinois-uniform-crime-reports-ucr-domestic-crime-offense/ 
+https://chicagohealthatlas.org/ (Race/Ethnicity of Chicago neighborhoods and Hardship Index)
+PyTrends Library (Google Trends API, using the following search terms for Chicago region: "Domestic Violence Help", "Domestic Violence Help Near Me", "Domestic Violence Hotline", "Domestic Violence Shelter Near Me", "Order of Protection")
 
 Rough Breakdown of Tasks:
 Hanna - arc gis for mapping / visualization
 Mary - Writing / presentation / analysis
 Jason - Mining for additional data 
 Victor - Mining for additional data
+MAryClare - data cleanup and statistics
 
 
