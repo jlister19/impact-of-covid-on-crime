@@ -1,6 +1,6 @@
 # impact-of-covid-on-crime
 
-Title: Impact of Covid on Crime in Cook County
+Title: Impact of Covid on Crime in Chicago
 
 Team Members:
 
@@ -8,6 +8,7 @@ Victor
 Hanna
 Mary
 Jason
+MaryClare
 
 Description/Outline:
 
