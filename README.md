@@ -26,8 +26,8 @@ Question to Answer:
 
 Datasets To Use:
 
-https://data.cityofchicago.org/ 
-https://icjia.illinois.gov/researchhub/datasets/illinois-uniform-crime-reports-ucr-domestic-crime-offense/
+https://data.cityofchicago.org/ (Crimes- 2001 to present)
+https://icjia.illinois.gov/researchhub/datasets/illinois-uniform-crime-reports-ucr-domestic-crime-offense/ 
 
 Rough Breakdown of Tasks:
 Hanna - arc gis for mapping / visualization
