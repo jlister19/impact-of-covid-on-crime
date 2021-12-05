@@ -33,10 +33,15 @@ https://chicagohealthatlas.org/ (Race/Ethnicity of Chicago neighborhoods and Har
 PyTrends Library (Google Trends API, using the following search terms for Illinois: "Domestic Violence Help", "Domestic Violence Help Near Me", "Domestic Violence Hotline", "Domestic Violence Shelter Near Me", "Order of Protection")
 
 Rough Breakdown of Tasks:
+
 Hanna - arc gis for mapping / visualization
+
 Mary - Writing / presentation / analysis
+
 Jason - Mining for additional data 
+
 Victor - Mining for additional data
+
 MaryClare - data cleanup, viz, and statistics
 
 
