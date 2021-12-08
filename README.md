@@ -16,7 +16,7 @@ We are interested in how domestic violence numbers from the pandemic have compar
 
 In addition, we are interested to know how socioeconomic status affected levels of domestic violence crimes in specific areas of Chicago and if a large difference was noted during specific time periods immediately proceeding lockdown, during lockdown, and immediately following lockdown.
 
-Question to Answer:
+Questions to Answer:
 
 1) How has COVID impacted domestic violence rates in Chicago?
 
