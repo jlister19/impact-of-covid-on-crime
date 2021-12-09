@@ -30,9 +30,10 @@ https://data.cityofchicago.org/ (Crimes- 2001 to present)
 
 https://chicagohealthatlas.org/ (Race/Ethnicity of Chicago neighborhoods and Hardship Index)
 
-PyTrends Library (Google Trends API, using the following search terms for Illinois: "Domestic Violence Help", "Domestic Violence Help Near Me", "Domestic Violence Hotline", "Domestic Violence Shelter Near Me", "Order of Protection")
+PyTrends Library (Google Trends API, using the following search terms for Illinois: "domestic violence", "domestic abuse", "restraining order", "order of protection"
 
-Rough Breakdown of Tasks:
+
+Breakdown of Tasks:
 
 Hanna - arc gis for mapping / visualization
 
